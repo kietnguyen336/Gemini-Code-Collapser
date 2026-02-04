@@ -1,0 +1,2 @@
+- Thêm nút **Collapse/Expand** vào code block của gemini
+- Tải extension: [main.zip](https://github.com/kietnguyen336/Gemini-Code-Collapser/archive/refs/heads/main.zip)
