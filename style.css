@@ -1,0 +1,25 @@
+.collapse-btn {
+  background: #2f2f2f; 
+  color: #e3e3e3;
+  border: 1px solid #444746;
+  border-radius: 8px;
+  padding: 4px 12px;
+  margin-right: 8px;
+  cursor: pointer;
+  font-size: 11px;
+  font-family: Arial, sans-serif;
+  height: 28px;
+  display: flex;
+  align-items: center;
+  transition: all 0.2s;
+}
+
+.collapse-btn:hover {
+  background: #3f3f3f;
+  border-color: #8e918f;
+}
+
+.code-block-decoration .buttons {
+  display: flex !important;
+  align-items: center !important;
+}
